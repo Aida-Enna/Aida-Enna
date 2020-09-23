@@ -1,9 +1,11 @@
 ### Hello! 👋
-I'm the leader of Arks-Layer, the group responsible for the PSO2 Fleet discord (http://discord.gg/PSO2), the website (full of tutorials, simulators, guides and more!) (https://na.arks-layer.com), the English translation patch for PSO2JP, and tons of other sutff! I'm also the developer of the PSO2 Tweaker (and various other things), translator/editor, community administrator, and more! If it's related to PSO2, I'm probably involved in it one way or another.
+I'm the leader of Arks-Layer, the group responsible for the [PSO2 Fleet discord](http://discord.gg/PSO2), [the website (full of tutorials, simulators, guides and more!)] (https://na.arks-layer.com), the English translation patch for PSO2JP, and tons of other sutff! I'm also the developer of the PSO2 Tweaker (and various other things), translator/editor, community administrator, and more! If it's related to PSO2, I'm probably involved in it one way or another.
 
-I also run various FFXIV communities, make tools, and help out with the XIVLauncher (and other project!)
+I also run various FFXIV communities, make tools, and help out with [the XIVLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) (and other project!)
 
-I also like to dabble in other stuff/fix broken things I come across in my travels through the internet. I'm also hopelessly optimistic!
+I also like to dabble in other stuff/fix broken things I come across in my travels through the internet.
+
+
 <!--
 **Aida-Enna/Aida-Enna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
