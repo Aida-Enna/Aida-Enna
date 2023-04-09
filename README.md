@@ -6,6 +6,9 @@ I also run various FFXIV communities, make tools, and help out with [the XIVLaun
 I also like to dabble in other stuff/fix broken things I come across in my travels through the internet.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aida-enna&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aida-enna)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aida-enna&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 **Aida-Enna/Aida-Enna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
