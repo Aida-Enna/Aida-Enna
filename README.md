@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aida Enna.</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aida-enna&label=Profile%20views&color=ff0000&style=plastic" alt="aida-enna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aida-enna" alt="aida-enna" /></a> </p>
